@@ -6,7 +6,7 @@
 * Tenho uma conhecimento de 2 anos com <span style='font-size:100px;'>&#128317;</span>
 
 
-<img loading="lazy" src="Banner.gif.gif" />
+<img loading="lazy" src="./Image/Banner.gif.gif" />
 
 * E Tenho um conhecimento em Python basico e junto com os meus alunos fizemos algumas atividades de machine learning.
  # <i>Carregando o conteudo ....</i> 🔋
