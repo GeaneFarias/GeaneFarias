@@ -31,18 +31,25 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora em formaç�
 
 ### ✨ Projetos em Destaque
 
-🔸 **Site com Formulário em Bootstrap**  
-Interface web responsiva com formulário estruturado utilizando Bootstrap.  
+🔸 Todo List (Lista de Tarefas)  
+Aplicação web para gerenciamento de tarefas com JavaScript.
+https://github.com/GeaneFarias/Lista-de-tarefas
+
+🔸 Calculadora em JavaScript  
+Projeto focado em lógica de programação e manipulação de eventos.
+https://github.com/GeaneFarias/Projeto_calculadora
+
+🔸 Site Responsivo com Bootstrap  
+Interface web com formulário responsivo utilizando Bootstrap.
 https://github.com/GeaneFarias/Site-com-formulario-em-bootstrap
 
-🔸 **Carrossel de Imagens com jQuery**  
-Projeto focado na manipulação do DOM e criação de componentes interativos com jQuery.  
-https://github.com/GeaneFarias/Site-carrossel
-
-🔸 **Exercícios em Python**  
-Coleção de scripts desenvolvidos para prática de lógica de programação e resolução de problemas.  
+🔸 Exercícios em Python  
+Scripts desenvolvidos para prática de lógica e resolução de problemas.
 https://github.com/GeaneFarias/Exercicios-Python
 
+🔸 Automação de Build com Gulp  
+Projeto demonstrando automação de tarefas no desenvolvimento front-end.
+https://github.com/GeaneFarias/gulp-build-automation
 ---
 
 ### 📫 Contato
