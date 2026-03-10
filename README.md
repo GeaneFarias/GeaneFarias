@@ -47,8 +47,8 @@ https://github.com/GeaneFarias/Site-com-formulario-em-bootstrap
 Scripts desenvolvidos para prática de lógica e resolução de problemas.
 https://github.com/GeaneFarias/Exercicios-Python
 
-🔸 Automação de Build com Gulp  
-Projeto demonstrando automação de tarefas no desenvolvimento front-end.
+🔸 **Automação de Build com Gulp**  
+Projeto demonstrando automação de tarefas no desenvolvimento front-end.  
 https://github.com/GeaneFarias/gulp-build-automation
 ---
 
