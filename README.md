@@ -57,7 +57,6 @@ https://github.com/GeaneFarias/gulp-build-automation
 
 📧 fariassantos.geane@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/geane-farias-santos-423111206/  
-🧠 GitHub: https://github.com/GeaneFarias
 
 ---
 
